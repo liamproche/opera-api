@@ -1,6 +1,6 @@
 import { Sequelize } from "sequelize";
 import config from "../config/config.js"
-import Opera from "./opera.model.js"
+import Opera from "../app/database/models/opera.model.js"
 
 const sequelize = new Sequelize(
     config.development.database,

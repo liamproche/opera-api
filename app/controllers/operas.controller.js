@@ -1,4 +1,4 @@
-import { db } from "../database/models/index.js"
+import { db } from "../../models/index.js"
 const Opera = db.opera;
 const operaActions = {}
 

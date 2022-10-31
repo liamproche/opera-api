@@ -13,5 +13,22 @@
   },
   "devDependencies": {
     "sequelize-cli": "^6.5.2"
-  }
+  },
+  "name": "opera-api",
+  "description": "An API to deliver information on a variety of operas",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamproche/opera-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamproche/opera-api/issues"
+  },
+  "homepage": "https://github.com/liamproche/opera-api#readme"
 }
